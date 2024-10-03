@@ -21,6 +21,6 @@ In my specific use case, I have a synthesizer that I also use as a MIDI controll
 6. Select "Run Script"
 
 #### Customization
-Each parameter object in the `PluginParameters` can be customized to have any label and output any type of CC message you want. Each `name` field conforms to the following: "CC `control change number` `label`". Changing the `control change number` will affect the control change number on the output MIDI messages from the effect. 
+Each parameter object in the `PluginParameters` array can be customized to have any label and output any type of CC message you want. Each `name` field conforms to the following: "CC `control change number` `label`". Changing the `control change number` will affect the control change number on the output MIDI messages from the effect. 
 
 If you want to customize the plugin parameters further, I recommend reading Apple's documentation on the Scripter API: https://support.apple.com/guide/logicpro/getparameter-function-lgce71e8f5c8/mac
