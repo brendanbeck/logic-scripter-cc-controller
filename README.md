@@ -20,7 +20,7 @@ In my specific use case, I have a synthesizer that I also use as a MIDI controll
 2. Add the "Scripter" MIDI effect to an instrument channel
 3. Select the "Scripter" MIDI effect; the effect window will appear
 4. Select "Open Script in Editor"
-5. Remove any pre-filled code in the editor, and then paste the contents of `source.json`
+5. Remove any pre-filled code in the editor; then paste the contents of `source.json`
 6. Select "Run Script"
 
 #### Customization
