@@ -7,6 +7,9 @@ That being said, configuring MIDI controllers to send the correct CC MIDI messag
 
 In my specific use case, I have a synthesizer that I also use as a MIDI controller. As with many synthesizers, you cannot modify the CC MIDI messages it outputs. So, I just throw this Scripter preset in front of my Kontakt instances, and then use MIDI learn on the sliders. Problem solved! 
 
+### Sample image
+![Screenshot 2024-10-02 at 9 17 43 PM](https://github.com/user-attachments/assets/b5c1306a-4ebc-4a29-923a-030f8af65d4f)
+
 ### Setup
 
 #### Requirements
